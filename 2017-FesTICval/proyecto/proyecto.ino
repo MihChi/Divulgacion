@@ -55,13 +55,17 @@ int checkBoton(){
       if (estado>=4){
         estado=0;
       }
-      delay(100);
+      delay(200);
       return 1;
     } 
     return 0;
 }
 
 void estadoInicial(){
+  if (sing==0){
+    lcd.clear();
+    sing = 1;
+  }
   lcd.print("                ");
   lcd.setCursor(0, 0);
   lcd.print("Bienvenido a");
