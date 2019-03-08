@@ -11,3 +11,7 @@ Directorios que almacenan material empleado en las siguientes actividades de div
 - FesTICval, edición 2017
 
 		link información general: http://etsii.net/event/festicval-2017
+- Taller de Invierno de la ETSIT de la URJC, edición 2019
+
+		link información general: https://goo.gl/KeiKWx 
+

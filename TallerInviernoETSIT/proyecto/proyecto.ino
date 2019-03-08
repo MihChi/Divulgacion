@@ -68,9 +68,9 @@ void estadoInicial(){
   }
   lcd.print("                ");
   lcd.setCursor(0, 0);
-  lcd.print("Bienvenido a la");
+  lcd.print("Bienvenido al");
   lcd.setCursor(0, 1);
-  lcd.print("#SemanaCiencia");
+  lcd.print("#TallerInvierno");
 }
 
 void estadoFinal(){
