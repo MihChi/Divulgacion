@@ -5,7 +5,7 @@ Directorios que almacenan material empleado en las siguientes actividades de div
 - Semana de la Ciencia de Madrid, edición 2017
 
 		link información general: https://www.madrimasd.org/semanaciencia2017/
-- Semana de la Ciencia e Innovación de Madrid, edición 2018
+- Semana de la Ciencia e Innovación de Madrid, ediciones 2018 y 2019
 
 		link información general: https://www.madrimasd.org/semanacienciaeinnovacion/
 - FesTICval, edición 2017
