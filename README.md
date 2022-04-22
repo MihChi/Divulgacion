@@ -15,3 +15,5 @@ Directorios que almacenan material empleado en las siguientes actividades de div
 
 		link información general: https://goo.gl/KeiKWx 
 
+- Jornadas STEM 2022
+
