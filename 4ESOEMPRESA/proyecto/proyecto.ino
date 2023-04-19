@@ -70,7 +70,7 @@ void estadoInicial(){
   lcd.setCursor(0, 0);
   lcd.print("Bienvenido a");
   lcd.setCursor(0, 1);
-  lcd.print("FesTICval 2017!");
+  lcd.print("4ESO+EMPRESA");
 }
 
 void estadoFinal(){
